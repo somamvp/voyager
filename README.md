@@ -12,7 +12,7 @@
 ![앱 검색 화면](https://user-images.githubusercontent.com/74857614/203068550-c08fe51e-9ff7-4fc2-a3f7-1c63bc2cd518.png)
 
 ## 내부 동작
-<img src="https://user-images.githubusercontent.com/74857614/218293603-6c373a64-8429-43f8-b0a0-15e166295579.gif"  height="200"/>
+<img src="https://user-images.githubusercontent.com/74857614/218293603-6c373a64-8429-43f8-b0a0-15e166295579.gif"  width="900" height="600"/>
 
 ## 개발팀
 - 지우석 (Frontend)
